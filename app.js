@@ -12,4 +12,5 @@ moveButton.addEventListener("click", function () {
 
 correctlyButton.addEventListener("click", function() {
   alert("Resposta Correta! Vem c a mãe que é sucesso");
+  alert("Resposta Correta! O pix é meu CPF, MANDE MANDE");
   });

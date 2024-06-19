@@ -11,5 +11,5 @@ moveButton.addEventListener("click", function () {
   });
 
 correctlyButton.addEventListener("click", function() {
-  alert("Resposta Correta, segue meu pix: CPF da mãe");
+  alert("Resposta Correta! Vem c a mãe que é sucesso");
   });

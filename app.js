@@ -11,5 +11,5 @@ moveButton.addEventListener("click", function () {
   });
 
 correctlyButton.addEventListener("click", function() {
-  alert("Resposta Correta, agora esta comigo pra sempre haha!");
+  alert("Resposta Correta, segue meu pix: CPF da mãe");
   });
